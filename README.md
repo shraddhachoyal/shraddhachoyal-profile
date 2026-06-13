@@ -1,1 +1,84 @@
-# shraddhachoyal-profile
+<h1 align="center">Hi 👋, I'm Shraddha Choyal</h1>
+
+<h3 align="center">
+Full-Stack Web Developer specializing in PHP, Laravel, Angular, and modern web technologies.
+Passionate about building scalable web applications, RESTful APIs, and efficient database-driven solutions.
+Experienced in developing user-friendly interfaces, writing clean and maintainable code, testing applications, and implementing features based on business requirements and user feedback.
+</h3>
+
+<br/>
+
+## Hi there 👋
+
+- 💼 Currently working as a Full-Stack Developer in New Delhi, India.
+- 🌱 Continuously learning and exploring new technologies and best practices.
+- 🛠️ Skills: PHP, Laravel, Angular, REST APIs, MySQL, PostgreSQL, MongoDB
+- ⌨️ Programming & Web Technologies: PHP, JavaScript, HTML, CSS, jQuery, Bootstrap
+- 🗄️ Databases: MySQL, PostgreSQL, MongoDB
+- 🚀 Interested in Backend Development, API Development, and Full-Stack Applications
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://in.linkedin.com/in/shraddha-choyal-a94617142" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shraddha Choyal" height="30" width="40" />
+</a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+
+<a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer">
+<img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" width="70" height="70"/>
+</a>
+
+<a href="https://angular.io/docs" target="_blank" rel="noreferrer">
+<img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" alt="Angular" width="50" height="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+</a>
+
+<a href="https://www.tutorialspoint.com/jquery/index.htm" target="_blank" rel="noreferrer">
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-jquery-10-1175155.png" alt="jQuery" width="50" height="50"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+</a>
+
+<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
+</a>
+
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="50" height="50"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+</a>
+
+<a href="https://www.postgresql.org/docs/current/index.html" target="_blank" rel="noreferrer">
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="50" height="50"/>
+</a>
+
+<a href="https://dev.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="70" height="70"/>
+</a>
+
+<a href="https://postman.com" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
+</a>
+
+</p>
